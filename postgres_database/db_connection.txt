@@ -1,0 +1,4 @@
+# SQLite connection methods:
+# Python: sqlite3.connect('myapp.db')
+# Connection string: sqlite:////home/kavia/workspace/code-generation/petconnect-18446-cc304555/postgres_database/myapp.db
+# File path: /home/kavia/workspace/code-generation/petconnect-18446-cc304555/postgres_database/myapp.db
